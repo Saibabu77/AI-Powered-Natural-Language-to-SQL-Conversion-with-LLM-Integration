@@ -2,6 +2,12 @@
 
 # Natural Language to SQL – Powered by LLaMA 4 + LangChain + Groq
 
+
+
+
+![image](https://github.com/user-attachments/assets/4cd2e991-80ff-4cf6-ba3f-6911e3588bed)
+
+
 This project turns plain English into structured SQL queries using cutting-edge LLM technology. It’s fast, smart, and genuinely useful. Whether you're a data scientist tired of repetitive queries or a product builder looking to add natural language capabilities to your app — this tool delivers.
 
 You give it a question like:
